@@ -24,6 +24,12 @@ public class SettingsActivity extends AppCompatActivity {
         }
 
         String test = 1;
+        adsdas
+            asdasda
+            
+            dasdasdas
+            asdasdasdadsa
+            asdasdasd
     }
 
     public static class SettingsFragment extends PreferenceFragmentCompat {
